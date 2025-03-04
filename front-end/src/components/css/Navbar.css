@@ -73,17 +73,18 @@ body, html {
 
 @media (max-width:1080px) {
   .search-bar {
-    width: 10%;
+    width: auto;
     background-color: red;
+  }
+
+  .search-bar-input {
+    width: 50%;
   }
 
   .search-icon-div {
     height: 100%;
   }
-
-  .search-bar-input {
-    width: 100%;
-  }
+  
 }
 
 .search-bar-input {
