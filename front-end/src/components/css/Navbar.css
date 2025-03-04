@@ -96,9 +96,6 @@ body, html {
 }
 
 .search-icon-div {
-  padding-left: 1vh;
-  padding-right: 1vh;
-  padding-top: 1vh;
   font-size: 120%;
   background-color: rgb(234, 238, 112);
   /* background-color: red; */
