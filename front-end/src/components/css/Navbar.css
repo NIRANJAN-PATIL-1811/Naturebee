@@ -71,6 +71,12 @@ body, html {
   left: 35rem;
 }
 
+@media (max-width:1080px) {
+  .search-bar {
+    width: 50%;
+  }
+}
+
 .search-bar-input {
   min-width: 300%;
   height: 4vh;
