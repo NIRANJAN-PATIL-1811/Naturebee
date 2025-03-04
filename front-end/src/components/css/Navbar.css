@@ -74,11 +74,11 @@ body, html {
 @media (max-width:1080px) {
   .search-bar {
     width: auto;
-    background-color: red;
+    background-color: rgb(0, 255, 51);
   }
 
   .search-bar-input {
-    width: 50%;
+    width: 20%;
   }
 
   .search-icon-div {
