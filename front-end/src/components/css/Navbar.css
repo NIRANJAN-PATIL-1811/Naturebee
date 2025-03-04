@@ -75,6 +75,10 @@ body, html {
   .search-bar {
     width: 10%;
   }
+
+  .search-icon-div {
+    height: 100%;
+  }
 }
 
 .search-bar-input {
