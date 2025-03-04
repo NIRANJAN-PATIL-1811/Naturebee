@@ -83,6 +83,7 @@ body, html {
 
   .search-icon-div {
     height: 4vh;
+    width: 2vw;
   }
   
 }
@@ -96,7 +97,9 @@ body, html {
 }
 
 .search-icon-div {
-  width: 2vw;
+  padding-left: 1vh;
+  padding-right: 1vh;
+  padding-top: 1vh;
   font-size: 120%;
   background-color: rgb(234, 238, 112);
   /* background-color: red; */
