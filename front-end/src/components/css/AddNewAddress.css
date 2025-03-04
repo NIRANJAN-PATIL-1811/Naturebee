@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.addNewAddress-input-div {
+  width: 100%;
+  margin-top: 1vh;
+  display: flex;
+  justify-content: center;
+  border: 1px solid rgba(0, 0, 0, 0.225);
+}
+
+.addNewAddress-input {
+  width: 95%;
+  height: 4vh;
+  border: none;
+  outline: none;
+}
+
+.addNewAddress-btn-div {
+  width: 100%;
+  margin-top: 1vh;
+  height: 4vh;
+  display: flex;
+  align-items: center;
+
+  font-family: "Poppins";
+  font-size: 100%;
+  font-weight: 600;
+
+  /* border: 1px solid black; */
+
+  gap: 1vh;
+}
+
+
+.addNewAddress-btn-div-A {
+  background-color: yellow;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  height: 4vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Poppins";
+  font-size: 100%;
+  font-weight: 600;
+
+  border: 1px solid yellow;
+}
+
+.addNewAddress-btn-div-A:hover {
+  border: 1px solid yellow;
+  cursor: pointer;
+}
+
+.addNewAddress-btn-div-B {
+  height: 4vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.addNewAddress-success-line {
+  font-family: "Poppins";
+  font-size: 80%;
+  font-weight: 600;
+  color: green;
+}
+
+.addNewAddress-error-line {
+  font-family: "Poppins";
+  font-size: 80%;
+  font-weight: 600;
+  color: red;
+}

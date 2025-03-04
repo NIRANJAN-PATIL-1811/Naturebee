@@ -1,0 +1,107 @@
+.body, html {
+  background-color: rgba(228, 228, 228, 0.785);
+  /* background-color: rgba(145, 219, 61, 0.785); */
+  overflow-x: hidden;
+}
+
+.main-course-div {
+  display: flex;
+  justify-content: center;
+
+  height: 50vh;
+  width: 100%;
+  /* background-color: red; */
+}
+
+.main-2 {
+  margin-top: 5vh;
+  height: 40vh;
+  width: 90.3vw;  
+  /* border: 1px solid black; */
+  display: flex;
+}
+
+.main-3 {
+  /* background-color: green; */
+  height: auto;
+  width: 100%;
+
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.shop-by-category {
+  font-size: 150%;
+  font-weight: 600;
+  font-family: 'Poppins';
+}
+
+.shop-by-category-items {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;  
+  gap: 3vh;
+}
+
+.link-div {
+  text-decoration: none;
+  color: black;
+}
+
+.item-div {
+  height: 33vh;
+  width: 37vh;
+  font-weight: 600;
+  font-size: 100%;
+  font-family: "Poppins";
+  background-color: white;
+  /* border: 1px solid black; */
+}
+
+.item-name-div {
+  padding-left: 2vh;
+}
+
+.item-img{
+  margin-top: 0.5vh;
+  height: 25vh;
+  width: 100%;
+}
+
+.item-offer {
+  font-size: 2.5vh;
+  font-weight: 300;
+  padding-left: 2vh;
+}
+
+.main-4 {
+  height: 200px;
+  margin-top: 5vh;
+  
+  /* background-color: red; */
+
+  margin-left: 20vh;
+  margin-right: 20vh;
+
+  
+}
+
+.main-4-sub-1 {
+  font-size: 2.5vh;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+
+.main-4-sub-2 {
+  margin-top: 1vh;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.main-4-item-img {
+  height: 97.8%;
+  width: 30vh;
+}

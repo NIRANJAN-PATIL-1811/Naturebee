@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.add-and-choose-address-main-div {
+  display: flex;
+  align-items: center;
+  gap: 2vh;
+  font-family: "Poppins";
+  font-size: 100%;
+  font-weight: 600;
+}
+
+.add-and-choose-address-main-div-A, .add-and-choose-address-main-div-B {
+  color: blue;
+  border-bottom: 1px solid white;
+}
+
+.add-and-choose-address-main-div-A:hover, .add-and-choose-address-main-div-B:hover {
+  color: blue;
+  border-bottom: 1px solid blue;
+  cursor: pointer;
+}
+
+.add-and-choose-address-content-div {
+  background-color: red;
+}

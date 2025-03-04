@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.checkout-main-div {
+  /* background-color: green; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkout-sub-div {
+  height: auto;
+  width: auto;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(0, 0, 0, 0.189);
+
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  border-radius: 1vh;
+}
+
+.item-details {
+  background-color: red;
+}
+
+.line-0, .line-1 {
+  margin: 5vh;
+}
+
+
+.line-0-row-1, .line-1-row-1, .line-2-row-1  {
+  font-family: "Poppins";
+  font-size: 120%;
+  font-weight: 600;
+}
+
+.line-0-row-2 {
+  display: flex;
+}
+
+.line-0-row-2-A {
+  width: 85%;
+  padding-right: 5vh;
+}
+
+.line-0-row-2-B {
+  width: 15%;
+}
+
+.line-1-row-1 {
+  display: flex;
+  align-items: center;
+  gap: 3vh;
+}
+
+.line-1-row-1-B {
+  color: blue;
+  font-size: 70%;
+}
+
+.line-2 {
+  margin: 7.5vh 5vh 5vh 5vh;
+}
+
+.radio-btn-div, .radio-btn-div-use-payment-method {
+  margin-top: 1vh;
+  height: 5vh;
+  border: 1px solid rgba(0, 0, 0, 0.189);
+  display: flex;
+  align-items: center;
+}
+
+.radio-btn {
+  opacity: 0;          
+  width: 0%;            
+  height: 0%;           
+}
+
+.radio-btn-label {  
+  padding-left: 1vh;
+  font-size: 100%;
+  width: 100%;
+}
+
+.radio-btn:checked + .radio-btn-label {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 255, 0.5);  /* Visual feedback when selected (blue color) */
+  height: 100%;
+}
+
+
+.radio-btn-div-use-payment-method {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(250, 250, 6, 0.574);
+}
+
+.radio-btn-div-use-payment-method:hover {
+  background-color: rgb(250, 250, 6);
+}
