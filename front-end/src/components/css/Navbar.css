@@ -74,10 +74,11 @@ body, html {
 @media (max-width:1080px) {
   .search-bar {
     width: 10%;
+    background-color: red;
   }
 
   .search-icon-div {
-    height: 100rem;
+    height: 100%;
   }
 }
 
