@@ -11,6 +11,7 @@ import Fast_food from "./components/Fast_food.jsx";
 import Baby_essentials from "./components/Baby_essentials.jsx";
 
 import Amul from "./components/Amul.jsx";
+import Mother_dairy from "./components/Mother_dairy.jsx";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Checkout from "./components/Checkout.jsx";
@@ -33,6 +34,7 @@ function App() {
             <Route path="/fast_food" element={<Fast_food/>} />
             <Route path="/baby_essentials" element={<Baby_essentials/>} />
             <Route path="/amul" element={<Amul/>} />
+            <Route path="/mother_dairy" element={<Mother_dairy/>} />
             <Route path="/checkout" element={<Checkout/>} />
           </Routes>
           <Footer />

@@ -24,18 +24,6 @@
     }
   },
   {
-    "img": "/mother_dairy/cow_milk.jpg",
-    "desc": "Pure and fresh cow milk, naturally rich in essential nutrients.",
-    "price": "65",
-    "nutrition": {
-      "calories": "140 kcal",
-      "protein": "8g",
-      "carbohydrates": "11g",
-      "fiber": "0g",
-      "fat": "7g"
-    }
-  },
-  {
     "img": "/mother_dairy/ghee.jpg",
     "desc": "Pure cow ghee, known for its rich aroma and high nutritional value.",
     "price": "500",

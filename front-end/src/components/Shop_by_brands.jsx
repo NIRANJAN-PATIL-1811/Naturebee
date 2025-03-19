@@ -97,11 +97,11 @@ function Shop_by_brands({images1}) {
         <div className="child-C mt-7 w-[100%]">
           <div className="child-C-child-A pl-5 font-extrabold md:pl-[15%] md:text-2xl md:mb-2">People also Like</div>
 
-          <div className="child-C-child-B h-auto mb-2 flex justify-center items-center">
-            <div className="child-C-child-B-child-A h-[90%] w-[70%] flex items-center gap-20 flex-wrap md:gap- md:mb-8">
+          <div className="child-C-child-B mt-2 h-auto mb-2 flex justify-center items-center">
+            <div className="child-C-child-B-child-A h-auto w-[80%] flex-wrap flex items-center justify-center gap-5 md:h-[90%] md:w-[70%] md:gap-20 md:gap- md:mb-8">
               {images1.map((item, index) =>
                 index === initialVal ? null : (
-                  <div key={index} onClick={() => filterFun(index)} className="nutritious-suggested-for-you-img-desc-div h-[96%] w-[40%] mb-2 flex-shrink-0 border border-[#d5d3d380] md:h-[35vh] md:w-[10vw]">
+                  <div key={index} onClick={() => filterFun(index)} className="nutritious-suggested-for-you-img-desc-div h-[25vh] w-[40%] mb-2 flex-shrink-0 border border-[#d5d3d380] md:h-[32vh] md:w-[10vw]">
                     <div className="flex justify-center items-center h-[84%] w-[100%] md:h-[80%] md:w-auto">
                       <div className="flex justify-center items-center h-[90%] w-[100%]">
                         <img className="h-[95%] w-[80%]" src={item.img} alt="" />
