@@ -23,24 +23,24 @@ function Navbar() {
     <>
       <div className="parent-div flex items-center max-h-[7vh] border-b-0 border-b-cyan-900 shadow-md fixed top-0 left-0 right-0 bg-[white] z-50 w-full">
 
-        <div className="child-div max-h-[5vh] flex items-center ml-[1vw] w-full">
+        <div className="child-div max-h-[5vh] flex items-center min-ml-[1vw] w-full">
           <div>
-            <RxHamburgerMenu onClick={() => changeVal(!open)} className='text-2xl md:hidden ml-[1vw] ' />
+            <RxHamburgerMenu onClick={() => changeVal(!open)} className='text-2xl md:hidden min-ml-[1vw] ' />
           </div>
-          <div className="name-div hidden md:flex md:ml-[1vw] md:text-2xl md:font-bold">
+          <div className="name-div hidden md:flex md:min-ml-[1vw] md:text-2xl md:font-bold">
             <div className="logo-div">
               <img className='max-h-[4vh] mr-[1vw]' src="/naturebee.jpeg" alt="" />
             </div>
             naturebee
           </div>
 
-          <div className="search-div flex justify-center border rounded-sm min-w-[75%] max-h-[80%] ml-[5%]">
+          <div className="search-div flex justify-center border rounded-sm min-w-[75%] max-h-[80%] min-ml-[5%]">
             <input className='min-w-[95%] max-h-[100%] outline-none md:min-w-[98%]' type="text" placeholder="eg. fresh" />
           </div>
 
           <div className="account-div flex">
-            <SlBasket className='text-3xl ml-[2vw]'/>
-            <MdAccountCircle className='text-3xl ml-[3vw] md:ml-[1vw]' />          
+            <SlBasket className='text-3xl min-ml-[2vw]'/>
+            <MdAccountCircle className='text-3xl min-ml-[3vw] md:min-ml-[1vw]' />          
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@ function Navbar() {
                     <div onClick={() => changeVal(false)} className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                       <div className=" flex items-center ml-2">
                         <SlHome/>
-                        <li className="flex items-center ml-[5%] max-h-10">Home</li>
+                        <li className="flex items-center min-ml-[5%] max-h-10">Home</li>
                       </div>
                     </div>
                   </Link>
@@ -64,35 +64,35 @@ function Navbar() {
                   <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <VscAccount/>
-                      <li className="flex items-center ml-[5%] max-h-10">Account</li>
+                      <li className="flex items-center min-ml-[5%] max-h-10">Account</li>
                     </div>
                   </div>
 
                   <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <MdOutlineAccountBalance/>
-                      <li className="flex items-center ml-[5%] max-h-10">Payments</li>
+                      <li className="flex items-center min-ml-[5%] max-h-10">Payments</li>
                     </div>
                   </div>
 
                   <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <SlBasket/>
-                      <li className="flex items-center ml-[5%] max-h-10">Cart</li>
+                      <li className="flex items-center min-ml-[5%] max-h-10">Cart</li>
                     </div>
                   </div>
 
                   <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <CiLocationOn/>
-                      <li className="flex items-center ml-[5%] max-h-10">Location</li>
+                      <li className="flex items-center min-ml-[5%] max-h-10">Location</li>
                     </div>
                   </div>
 
                   <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <TbTruckDelivery/>
-                      <li className="flex items-center ml-[5%] max-h-10">Orders</li>
+                      <li className="flex items-center min-ml-[5%] max-h-10">Orders</li>
                     </div>
                   </div>
                 </div>
