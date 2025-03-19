@@ -25,9 +25,9 @@ function Navbar() {
 
         <div className="child-div max-h-[5vh] flex items-center min-ml-[1vw] w-full">
           <div>
-            <RxHamburgerMenu onClick={() => changeVal(!open)} className='text-2xl md:hidden min-ml-[1vw] ' />
+            <RxHamburgerMenu onClick={() => changeVal(!open)} className='min-text-2xl md:hidden min-ml-[1vw] ' />
           </div>
-          <div className="name-div hidden md:flex md:min-ml-[1vw] md:text-2xl md:font-bold">
+          <div className="name-div hidden md:flex md:min-ml-[1vw] md:min-text-2xl md:font-bold">
             <div className="logo-div">
               <img className='max-h-[4vh] mr-[1vw]' src="/naturebee.jpeg" alt="" />
             </div>
@@ -39,8 +39,8 @@ function Navbar() {
           </div>
 
           <div className="account-div flex">
-            <SlBasket className='text-3xl min-ml-[2vw]'/>
-            <MdAccountCircle className='text-3xl min-ml-[3vw] md:min-ml-[1vw]' />          
+            <SlBasket className='min-text-3xl min-ml-[2vw]'/>
+            <MdAccountCircle className='min-text-3xl min-ml-[3vw] md:min-ml-[1vw]' />          
           </div>
         </div>
       </div>
