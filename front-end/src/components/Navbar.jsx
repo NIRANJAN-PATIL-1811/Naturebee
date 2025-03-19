@@ -34,7 +34,7 @@ function Navbar() {
             naturebee
           </div>
 
-          <div className="searcmin-h-div flex justify-center border rounded-sm w-[75%] min-h-[80%] ml-[5%]">
+          <div className="search-div flex justify-center border rounded-sm w-[75%] min-h-[80%] ml-[5%]">
             <input className='w-[95%] min-h-[100%] outline-none md:w-[98%]' type="text" placeholder="eg. fresh" />
           </div>
 
