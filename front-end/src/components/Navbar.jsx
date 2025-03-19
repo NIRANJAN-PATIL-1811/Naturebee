@@ -31,7 +31,7 @@ function Navbar() {
             <div className="logo-div">
               <img className='max-h-[4vh] mr-[1vw]' src="/naturebee.jpeg" alt="" />
             </div>
-            naturebee
+            <div>naturebee</div>
           </div>
 
           <div className="search-div flex justify-center border rounded-sm min-w-[75%] max-h-[80%] min-ml-[5%]">
