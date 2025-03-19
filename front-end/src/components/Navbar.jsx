@@ -21,9 +21,9 @@ function Navbar() {
 
   return (
     <>
-      <div className="parent-div flex items-center min-h-[7vh] border-b-0 border-b-cyan-900 shadow-md fixed top-0 left-0 right-0 bg-[white] z-50 w-full">
+      <div className="parent-div flex items-center min-h-[7vh] border-b-0 border-b-cyan-900 shadomin-w-md fixed top-0 left-0 right-0 bg-[white] z-50 min-w-full">
 
-        <div className="child-div min-h-[5vh] flex items-center ml-[1vw] w-full">
+        <div className="child-div min-h-[5vh] flex items-center ml-[1vw] min-w-full">
           <div>
             <RxHamburgerMenu onClick={() => changeVal(!open)} className='text-2xl md:hidden ml-[1vw] ' />
           </div>
@@ -34,8 +34,8 @@ function Navbar() {
             naturebee
           </div>
 
-          <div className="search-div flex justify-center border rounded-sm w-[75%] min-h-[80%] ml-[5%]">
-            <input className='w-[95%] min-h-[100%] outline-none md:w-[98%]' type="text" placeholder="eg. fresh" />
+          <div className="search-div flex justify-center border rounded-sm min-w-[75%] min-h-[80%] ml-[5%]">
+            <input className='min-w-[95%] min-h-[100%] outline-none md:min-w-[98%]' type="text" placeholder="eg. fresh" />
           </div>
 
           <div className="account-div flex">
@@ -49,11 +49,11 @@ function Navbar() {
           {
             open ? 
             <>
-              <div className="min-h-[100vh] w-[50vw] bg-white fixed shadow-2xl">
-                <div className="w-70%">
+              <div className="min-h-[100vh] min-w-[50vw] bg-white fixed shadomin-w-2xl">
+                <div className="min-w-70%">
                   
                   <Link to={'/'}>
-                    <div onClick={() => changeVal(false)} className="border ml-2  w-[90%] mt-2 rounded-2xl">
+                    <div onClick={() => changeVal(false)} className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                       <div className=" flex items-center ml-2">
                         <SlHome/>
                         <li className="flex items-center ml-[5%] min-h-10">Home</li>
@@ -61,35 +61,35 @@ function Navbar() {
                     </div>
                   </Link>
 
-                  <div className="border ml-2  w-[90%] mt-2 rounded-2xl">
+                  <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <VscAccount/>
                       <li className="flex items-center ml-[5%] min-h-10">Account</li>
                     </div>
                   </div>
 
-                  <div className="border ml-2  w-[90%] mt-2 rounded-2xl">
+                  <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <MdOutlineAccountBalance/>
                       <li className="flex items-center ml-[5%] min-h-10">Payments</li>
                     </div>
                   </div>
 
-                  <div className="border ml-2  w-[90%] mt-2 rounded-2xl">
+                  <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <SlBasket/>
                       <li className="flex items-center ml-[5%] min-h-10">Cart</li>
                     </div>
                   </div>
 
-                  <div className="border ml-2  w-[90%] mt-2 rounded-2xl">
+                  <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <CiLocationOn/>
                       <li className="flex items-center ml-[5%] min-h-10">Location</li>
                     </div>
                   </div>
 
-                  <div className="border ml-2  w-[90%] mt-2 rounded-2xl">
+                  <div className="border ml-2  min-w-[90%] mt-2 rounded-2xl">
                     <div className=" flex items-center ml-2">
                       <TbTruckDelivery/>
                       <li className="flex items-center ml-[5%] min-h-10">Orders</li>
