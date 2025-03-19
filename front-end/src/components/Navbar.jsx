@@ -29,7 +29,7 @@ function Navbar() {
           </div>
           <div className="name-div hidden md:flex md:ml-[1vw] md:text-2xl md:font-bold">
             <div className="logo-div">
-              <img className='max-h-[2vh] mr-[1vw]' src="/naturebee.jpeg" alt="" />
+              <img className='max-h-[4vh] mr-[1vw]' src="/naturebee.jpeg" alt="" />
             </div>
             naturebee
           </div>
