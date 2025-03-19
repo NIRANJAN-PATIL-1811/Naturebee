@@ -1,0 +1,74 @@
+[
+  {
+    "img": "/choice/choice1.jpg",
+    "discount": "33%",
+    "price": "122",
+    "desc": "Wondetzland | California Walnut Kernels | 500g"
+  },
+  {
+    "img": "/choice/choice2.jpg",
+    "discount": "15%",
+    "price": "420",
+    "desc": "Casheu, Pistachios, Raisin, Almonds | 1kg"
+  },
+  {
+    "img": "/choice/choice3.jpg",
+    "discount": "10%",
+    "price": "99",
+    "desc": "Tata Sampann | Termeric Powder | 500g"
+  },
+  {
+    "img": "/choice/choice4.jpg",
+    "discount": "30%",
+    "price": "99",
+    "desc": "Tata Sampann | Chicken Masala | 500g"
+  },
+  {
+    "img": "/choice/choice5.jpg",
+    "discount": "20%",
+    "price": "175",
+    "desc": "Mcain | mini Samosa | 500g"
+  },
+  {
+    "img": "/choice/choice6.jpg",
+    "discount": "25%",
+    "price": "249",
+    "desc": "Unibic | Cashew Badam | 340g"
+  },
+  {
+    "img": "/choice/choice7.jpg",
+    "discount": "18%",
+    "price": "79",
+    "desc": "Mother Dairy | Medium fat | 460g"
+  },
+  {
+    "img": "/choice/choice8.jpg",
+    "discount": "22%",
+    "price": "120",
+    "desc": "Amul | Rabri | 250g"
+  },
+  {
+    "img": "/choice/choice9.jpg",
+    "discount": "12%",
+    "price": "185",
+    "desc": "Ymigoes | Mawa gujia | 630g"
+  },
+  {
+    "img": "/choice/choice10.jpg",
+    "discount": "27%",
+    "price": "349",
+    "desc": "Gits | Gulab Jamun | Open & eat | 430g"
+  },
+  {
+    "img": "/choice/choice11.jpg",
+    "discount": "17%",
+    "price": "95",
+    "desc": "Fortune | besan | 100% Channa | 1kg"
+  },
+  {
+    "img": "/choice/choice12.jpg",
+    "discount": "35%",
+    "price": "320",
+    "desc": "Disano | Honey | 100% real | 720g"
+  }
+]

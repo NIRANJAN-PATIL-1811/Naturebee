@@ -1,0 +1,146 @@
+[
+  {
+    "img": "/mother_dairy/full_cream_milk.jpg",
+    "desc": "Rich and creamy full cream milk, perfect for daily consumption and making dairy products.",
+    "price": "70",
+    "nutrition": {
+      "calories": "150 kcal",
+      "protein": "8g",
+      "carbohydrates": "12g",
+      "fiber": "0g",
+      "fat": "8g"
+    }
+  },
+  {
+    "img": "/mother_dairy/toned_milk.jpg",
+    "desc": "Low-fat toned milk, a healthy choice for those looking for a balanced diet.",
+    "price": "60",
+    "nutrition": {
+      "calories": "120 kcal",
+      "protein": "8g",
+      "carbohydrates": "12g",
+      "fiber": "0g",
+      "fat": "5g"
+    }
+  },
+  {
+    "img": "/mother_dairy/cow_milk.jpg",
+    "desc": "Pure and fresh cow milk, naturally rich in essential nutrients.",
+    "price": "65",
+    "nutrition": {
+      "calories": "140 kcal",
+      "protein": "8g",
+      "carbohydrates": "11g",
+      "fiber": "0g",
+      "fat": "7g"
+    }
+  },
+  {
+    "img": "/mother_dairy/ghee.jpg",
+    "desc": "Pure cow ghee, known for its rich aroma and high nutritional value.",
+    "price": "500",
+    "nutrition": {
+      "calories": "112 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "13g"
+    }
+  },
+  {
+    "img": "/mother_dairy/butter.jpg",
+    "desc": "Creamy and smooth butter, perfect for cooking, baking, and spreading.",
+    "price": "250",
+    "nutrition": {
+      "calories": "717 kcal",
+      "protein": "1g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "81g"
+    }
+  },
+  {
+    "img": "/mother_dairy/paneer.jpg",
+    "desc": "Fresh and soft paneer, rich in protein and perfect for various Indian dishes.",
+    "price": "300",
+    "nutrition": {
+      "calories": "265 kcal",
+      "protein": "18g",
+      "carbohydrates": "2g",
+      "fiber": "0g",
+      "fat": "21g"
+    }
+  },
+  {
+    "img": "/mother_dairy/dahi.jpg",
+    "desc": "Thick and creamy dahi (curd), great for digestion and gut health.",
+    "price": "90",
+    "nutrition": {
+      "calories": "98 kcal",
+      "protein": "9g",
+      "carbohydrates": "3g",
+      "fiber": "0g",
+      "fat": "5g"
+    }
+  },
+  {
+    "img": "/mother_dairy/lassi.jpg",
+    "desc": "Refreshing and traditional lassi, made with pure dahi and mild sweetness.",
+    "price": "50",
+    "nutrition": {
+      "calories": "150 kcal",
+      "protein": "6g",
+      "carbohydrates": "20g",
+      "fiber": "0g",
+      "fat": "5g"
+    }
+  },
+  {
+    "img": "/mother_dairy/mishti_doi.jpg",
+    "desc": "Bengali-style sweetened yogurt, rich in probiotics and a delicious dessert.",
+    "price": "80",
+    "nutrition": {
+      "calories": "180 kcal",
+      "protein": "5g",
+      "carbohydrates": "30g",
+      "fiber": "0g",
+      "fat": "4g"
+    }
+  },
+  {
+    "img": "/mother_dairy/milk_powder.jpg",
+    "desc": "High-quality milk powder, perfect for tea, coffee, and cooking purposes.",
+    "price": "400",
+    "nutrition": {
+      "calories": "500 kcal",
+      "protein": "26g",
+      "carbohydrates": "38g",
+      "fiber": "0g",
+      "fat": "27g"
+    }
+  },
+  {
+    "img": "/mother_dairy/rasgulla.jpg",
+    "desc": "Mother Dairy Rasgulla is a soft and spongy Indian dessert made from pure chhena (paneer) and soaked in light sugar syrup. A perfect sweet treat for festive occasions and celebrations.",
+    "price": "180",
+    "nutrition": {
+      "calories": "186 kcal",
+      "protein": "4g",
+      "carbohydrates": "35g",
+      "fiber": "0g",
+      "fat": "3g"
+    }
+  },
+  {
+    "img": "/mother_dairy/cold_coffee.jpg",
+    "desc": "Mother Dairy Cold Coffee is a refreshing, ready-to-drink beverage made from rich coffee and creamy milk. It provides a perfect energy boost with a smooth and delicious taste.",
+    "price": "50",
+    "nutrition": {
+      "calories": "150 kcal",
+      "protein": "5g",
+      "carbohydrates": "22g",
+      "fiber": "0g",
+      "fat": "4g"
+    }
+  }
+]

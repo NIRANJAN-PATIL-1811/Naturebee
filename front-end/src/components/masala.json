@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/masala/turmeric_powder.jpg",
+    "desc": "Pure turmeric powder, known for its rich color, earthy flavor, and numerous health benefits.",
+    "price": "120",
+    "nutrition": {
+      "calories": "312 kcal",
+      "protein": "9.7g",
+      "carbohydrates": "67.1g",
+      "fiber": "22.7g",
+      "fat": "3.3g"
+    }
+  },
+  {
+    "img": "/masala/red_chili_powder.jpg",
+    "desc": "Spicy red chili powder, perfect for adding heat and vibrant color to your dishes.",
+    "price": "150",
+    "nutrition": {
+      "calories": "282 kcal",
+      "protein": "12g",
+      "carbohydrates": "49g",
+      "fiber": "34g",
+      "fat": "14g"
+    }
+  },
+  {
+    "img": "/masala/coriander_powder.jpg",
+    "desc": "Aromatic coriander powder with a warm, citrusy flavor, commonly used in Indian cuisine.",
+    "price": "100",
+    "nutrition": {
+      "calories": "298 kcal",
+      "protein": "12.4g",
+      "carbohydrates": "55g",
+      "fiber": "41.9g",
+      "fat": "17g"
+    }
+  },
+  {
+    "img": "/masala/cumin_powder.jpg",
+    "desc": "Fragrant cumin powder, perfect for seasoning curries, soups, and rice dishes.",
+    "price": "130",
+    "nutrition": {
+      "calories": "375 kcal",
+      "protein": "17.8g",
+      "carbohydrates": "44.2g",
+      "fiber": "10.5g",
+      "fat": "22.3g"
+    }
+  },
+  {
+    "img": "/masala/garam_masala.jpg",
+    "desc": "Traditional garam masala blend, made from a mix of warming spices to enhance flavor.",
+    "price": "200",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "10g",
+      "carbohydrates": "50g",
+      "fiber": "20g",
+      "fat": "12g"
+    }
+  },
+  {
+    "img": "/masala/black_pepper_powder.jpg",
+    "desc": "Freshly ground black pepper powder, a versatile spice with a bold, pungent taste.",
+    "price": "180",
+    "nutrition": {
+      "calories": "255 kcal",
+      "protein": "10.4g",
+      "carbohydrates": "64g",
+      "fiber": "25.3g",
+      "fat": "3.3g"
+    }
+  },
+  {
+    "img": "/masala/cardamom_powder.jpg",
+    "desc": "Aromatic cardamom powder, ideal for desserts, tea, and exotic spice blends.",
+    "price": "600",
+    "nutrition": {
+      "calories": "311 kcal",
+      "protein": "11g",
+      "carbohydrates": "68g",
+      "fiber": "28g",
+      "fat": "6.7g"
+    }
+  },
+  {
+    "img": "/masala/clove_powder.jpg",
+    "desc": "Strong and pungent clove powder, known for its medicinal properties and bold flavor.",
+    "price": "500",
+    "nutrition": {
+      "calories": "323 kcal",
+      "protein": "6g",
+      "carbohydrates": "66g",
+      "fiber": "34g",
+      "fat": "20g"
+    }
+  },
+  {
+    "img": "/masala/fenugreek_powder.jpg",
+    "desc": "Bitter and aromatic fenugreek powder, used in spice blends and traditional remedies.",
+    "price": "90",
+    "nutrition": {
+      "calories": "323 kcal",
+      "protein": "23g",
+      "carbohydrates": "58g",
+      "fiber": "25g",
+      "fat": "6.4g"
+    }
+  },
+  {
+    "img": "/masala/mustard_powder.jpg",
+    "desc": "Strong and tangy mustard powder, great for pickles, sauces, and spice rubs.",
+    "price": "110",
+    "nutrition": {
+      "calories": "508 kcal",
+      "protein": "26.1g",
+      "carbohydrates": "28.1g",
+      "fiber": "12.2g",
+      "fat": "36.2g"
+    }
+  },
+  {
+    "img": "/masala/nutmeg_powder.jpg",
+    "desc": "Warm and sweet nutmeg powder, used in baking, beverages, and spice blends.",
+    "price": "550",
+    "nutrition": {
+      "calories": "525 kcal",
+      "protein": "5.8g",
+      "carbohydrates": "49.3g",
+      "fiber": "20.8g",
+      "fat": "36.3g"
+    }
+  }
+]

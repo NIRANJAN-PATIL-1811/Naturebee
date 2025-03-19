@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/baby_essentials/baby_diapers.jpg",
+    "desc": "Soft and ultra-absorbent baby diapers for maximum comfort and protection.",
+    "price": "550",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_wipes.jpg",
+    "desc": "Gentle baby wipes infused with aloe vera for delicate skin care.",
+    "price": "200",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_powder.jpg",
+    "desc": "Mild baby powder with natural ingredients to keep skin fresh and dry.",
+    "price": "180",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_lotion.jpg",
+    "desc": "Hydrating baby lotion with natural extracts for soft and smooth skin.",
+    "price": "250",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_shampoo.jpg",
+    "desc": "Tear-free baby shampoo with a gentle formula to keep hair soft and clean.",
+    "price": "270",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_oil.jpg",
+    "desc": "Lightweight baby oil enriched with vitamins for healthy skin and massage.",
+    "price": "220",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_feeding_bottle.jpg",
+    "desc": "BPA-free baby feeding bottle with an anti-colic nipple for easy feeding.",
+    "price": "300",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_food_puree.jpg",
+    "desc": "Organic baby food puree made from fresh fruits and vegetables.",
+    "price": "150",
+    "nutrition": {
+      "calories": "90 kcal",
+      "protein": "1g",
+      "carbohydrates": "20g",
+      "fiber": "2g",
+      "fat": "0.5g"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_cereal.jpg",
+    "desc": "Nutritious baby cereal fortified with essential vitamins and minerals.",
+    "price": "350",
+    "nutrition": {
+      "calories": "120 kcal",
+      "protein": "3g",
+      "carbohydrates": "25g",
+      "fiber": "2g",
+      "fat": "1g"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_teething_rings.jpg",
+    "desc": "Soft and safe teething rings to soothe sore gums and aid teething.",
+    "price": "180",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  },
+  {
+    "img": "/baby_essentials/baby_blanket.jpg",
+    "desc": "Warm and cozy baby blanket made from soft, breathable fabric for comfort.",
+    "price": "600",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "img": "/item-1/item1.jpg",
+    "desc": "Nutritious oats, a great choice for a healthy breakfast.",
+    "category": "nutritious"
+  },
+  {
+    "img": "/item-1/item2.jpg",
+    "desc": "Crispy and buttery popcorn, perfect for movie nights.",
+    "category": "movie_nights"
+  },
+  {
+    "img": "/item-1/item3.jpg",
+    "desc": "Crunchy and nutritious almonds for a healthy snack.",
+    "category": "healthy_snack"
+  },
+  {
+    "img": "/item-1/item4.jpg",
+    "desc": "Pure olive oil, ideal for cooking and salads.",
+    "category": "oil"
+  },
+  {
+    "img": "/item-1/item5.jpg",
+    "desc": "Aromatic black pepper to enhance your dishes with flavor.",
+    "category": "masala"
+  },
+  {
+    "img": "/item-1/item6.jpg",
+    "desc": "Quick and tasty noodles for a satisfying meal.",
+    "category": "fast_food"
+  },
+  {
+    "img": "/item-1/item7.jpg",
+    "desc": "Essential baby products for your little one's care.",
+    "category": "baby_essentials"
+  }
+]

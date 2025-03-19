@@ -1,51 +1,44 @@
 import "./App.css";
+import Navbar from "./components/Navbar.jsx";
+import Footer from "./components/Footer.jsx";
+import Main_Course from "./components/Main_Course.jsx";
+import Nutritious from "./components/Nutritious.jsx";
+import Movie_nights from "./components/Movie_nights.jsx";
+import Healthy_snack from "./components/Healthy_snack.jsx";
+import Oil from "./components/Oil.jsx";
+import Masala from "./components/Masala.jsx";
+import Fast_food from "./components/Fast_food.jsx";
+import Baby_essentials from "./components/Baby_essentials.jsx";
 
-import Navbar from "./components/Pages/Navbar.jsx";
-import Mycontext from "./Mycontext.jsx";
-import Mycontext2 from "./Mycontext2.jsx";
-import Main_Course from "./components/Pages/Main_Course.jsx";
-import Footer from "./components/Pages/Footer.jsx";
-import PageNotFound from "./components/Pages/PageNotFound.jsx";
+import Amul from "./components/Amul.jsx";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-
-// All Pages
-import FreshProduce from "./components/Pages/FreshProduce.jsx";
-import CheckOut from "./components/Pages/CheckOut.jsx";
-import DairyProducts from "./components/Pages/DairyProducts.jsx";
-import MeatAndPoultry from "./components/Pages/MeatAndPoultry.jsx";
+import Checkout from "./components/Checkout.jsx";
 
 
 function App() {
   return (
     <>
-      <Mycontext>
-        <Mycontext2>
-          <BrowserRouter>
-            <Navbar/>
-            <Routes>
-              <Route path="/" element={<Main_Course/>} />
-              <Route path="/fresh produce" element={<FreshProduce image_path={'./freshproduce'} />} />
-              <Route path="/dairy products" element={<DairyProducts image_path={'./dairyproducts'} />} />
-              <Route path="/meat & poultry" element={<MeatAndPoultry image_path={'./meatandpoultry'}/>} />
-              <Route path="/grains" element={<></>} />
-              <Route path="/cereals & pulses" element={<></>} />
-              <Route path="/bakery & baked goods" element={<></>} />
-              <Route path="/frozen foods" element={<></>} />
-              <Route path="/snacks & beverages" element={<></>} />
-              <Route path="/dry fruits & nuts" element={<></>} />
-              <Route path="/oils & condiments" element={<></>} />
-              <Route path="/spices & seasonings" element={<></>} />
-              <Route path="/ready to eat&instant foods" element={<></>} />
-              <Route path="/baby food&essentials" element={<></>} />
-              <Route path="/checkout" element={<CheckOut/>} />
-              <Route path="*" element={<PageNotFound/>} />
-            </Routes>
-            <Footer />
-          </BrowserRouter>
-        </Mycontext2>
-      </Mycontext>
+      <div className="parent-div">
+
+        <BrowserRouter>
+          <Navbar/>
+          <Routes>
+            <Route path="/" element={<Main_Course/>} />
+            <Route path="/nutritious" element={<Nutritious/>} />
+            <Route path="/movie_nights" element={<Movie_nights/>} />
+            <Route path="/healthy_snack" element={<Healthy_snack/>} />
+            <Route path="/oil" element={<Oil/>} />
+            <Route path="/masala" element={<Masala/>} />
+            <Route path="/fast_food" element={<Fast_food/>} />
+            <Route path="/baby_essentials" element={<Baby_essentials/>} />
+            <Route path="/amul" element={<Amul/>} />
+            <Route path="/checkout" element={<Checkout/>} />
+          </Routes>
+          <Footer />
+        </BrowserRouter>
+
+      </div>
     </>
   );
 }

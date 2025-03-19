@@ -1,0 +1,74 @@
+[
+  {
+    "img": "/sale/sale1.jpg",
+    "discound": "23%",
+    "price": "212",
+    "desc": "Artinici cookies | Zero sugar almond flour cookies | 400g"
+  },
+  {
+    "img": "/sale/sale2.jpg",
+    "discound": "33%",
+    "price": "152",
+    "desc": "Happilo | Premium 100% pure Chia seeds | 1kg"
+  },
+  {
+    "img": "/sale/sale3.jpg",
+    "discound": "28%",
+    "price": "317",
+    "desc": "Mix Nuts | Prettinutty | Almond, Cashue"
+  },
+  {
+    "img": "/sale/sale4.jpg",
+    "discound": "20%",
+    "price": "180",
+    "desc": "Kellogg's Muesli fruit nut & seeds | 12 in 1 | power breakfast | 1kg"
+  },
+  {
+    "img": "/sale/sale5.jpg",
+    "discound": "18%",
+    "price": "170",
+    "desc": "Catch Jeera whole | spices | 1kg"
+  },
+  {
+    "img": "/sale/sale6.jpg",
+    "discound": "21%",
+    "price": "95",
+    "desc": "Tata sampann | Chilli Powder with natural oils | 200g"
+  },
+  {
+    "img": "/sale/sale7.jpg",
+    "discound": "13%",
+    "price": "75",
+    "desc": "India Gate | Classic | Luchowi Biryani Masala | 1kg"
+  },
+  {
+    "img": "/sale/sale8.jpg",
+    "discound": "13%",
+    "price": "65",
+    "desc": "Maggi masala A Magic | with iron & vitamin B9 | 220g"
+  },
+  {
+    "img": "/sale/sale9.jpg",
+    "discound": "16%",
+    "price": "173",
+    "desc": "Mai Rasoi | Cashue and Almonds | 300g"
+  },
+  {
+    "img": "/sale/sale10.jpg",
+    "discound": "18%",
+    "price": "217",
+    "desc": "Happilo | Jumbo Californian Pistachios | 500g"
+  },
+  {
+    "img": "/sale/sale11.jpg",
+    "discound": "16%",
+    "price": "50",
+    "desc": "Amul Moti Milk | 1lt"
+  },
+  {
+    "img": "/sale/sale12.jpg",
+    "discound": "23%",
+    "price": "56",
+    "desc": "Mother Dairy | UHT Sterilised & Homogenized toned milk | 1lt"
+  }
+]

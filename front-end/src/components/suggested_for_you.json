@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/nutritious/img0.jpg",
+    "desc": "Start your day with these nutritious oats, rich in fiber and essential nutrients. A perfect breakfast option to keep you full and energized.",
+    "price": "143",
+    "nutrition": {
+      "calories": "389 kcal",
+      "protein": "16.9g",
+      "carbohydrates": "66.3g",
+      "fiber": "10.6g",
+      "fat": "6.9g"
+    }
+  },
+  {
+    "img": "/nutritious/img1.jpg",
+    "desc": "Quaker Oats 3-in-1 is a healthy and delicious way to get fiber and protein. Great for weight management and a heart-friendly diet.",
+    "price": "160",
+    "nutrition": {
+      "calories": "380 kcal",
+      "protein": "15g",
+      "carbohydrates": "67g",
+      "fiber": "11g",
+      "fat": "7g"
+    }
+  },
+  {
+    "img": "/nutritious/img2.jpg",
+    "desc": "Mikko's nutritious cereal is packed with essential vitamins and minerals. A crunchy option for a balanced diet.",
+    "price": "133",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "10g",
+      "carbohydrates": "72g",
+      "fiber": "8g",
+      "fat": "5g"
+    }
+  },
+  {
+    "img": "/nutritious/img3.jpg",
+    "desc": "Tata Sampann’s premium cashews are 100% pure, packed with healthy fats, protein, and antioxidants. A great energy-boosting snack.",
+    "price": "800",
+    "nutrition": {
+      "calories": "553 kcal",
+      "protein": "18g",
+      "carbohydrates": "30g",
+      "fiber": "3g",
+      "fat": "44g"
+    }
+  },
+  {
+    "img": "/nutritious/img4.jpg",
+    "desc": "Fortune’s rice bran oil is a heart-healthy cooking choice, rich in antioxidants and good fats. Helps maintain cholesterol levels.",
+    "price": "95",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/nutritious/img5.jpg",
+    "desc": "Tata Sampann unpolished Masoor Dal is naturally rich in protein and fiber. A staple for a healthy diet.",
+    "price": "85",
+    "nutrition": {
+      "calories": "360 kcal",
+      "protein": "25g",
+      "carbohydrates": "60g",
+      "fiber": "10g",
+      "fat": "1g"
+    }
+  },
+  {
+    "img": "/nutritious/img6.jpg",
+    "desc": "Nature Land Organics Masoor Whole is a high-quality dal rich in protein, iron, and vitamins. Great for a balanced diet.",
+    "price": "120",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "24g",
+      "carbohydrates": "63g",
+      "fiber": "11g",
+      "fat": "1.5g"
+    }
+  },
+  {
+    "img": "/nutritious/img7.jpg",
+    "desc": "Angur Red Rajma is a protein-rich legume, perfect for dals and curries. A great plant-based protein source.",
+    "price": "220",
+    "nutrition": {
+      "calories": "333 kcal",
+      "protein": "24g",
+      "carbohydrates": "60g",
+      "fiber": "15g",
+      "fat": "1.2g"
+    }
+  },
+  {
+    "img": "/nutritious/img8.jpg",
+    "desc": "Fortune Rice is pure, delicious, and full of essential nutrients. Ideal for biryani or steamed rice.",
+    "price": "125",
+    "nutrition": {
+      "calories": "130 kcal",
+      "protein": "2.5g",
+      "carbohydrates": "28g",
+      "fiber": "0.4g",
+      "fat": "0.3g"
+    }
+  },
+  {
+    "img": "/nutritious/img9.jpg",
+    "desc": "India Gate Dubar Healthy Rice has long, aromatic grains, perfect for daily meals. A high-quality rice variety.",
+    "price": "130",
+    "nutrition": {
+      "calories": "135 kcal",
+      "protein": "3g",
+      "carbohydrates": "29g",
+      "fiber": "0.5g",
+      "fat": "0.4g"
+    }
+  },
+  {
+    "img": "/nutritious/img10.jpg",
+    "desc": "Mai Rasoi’s 100% pure Makhana is a crunchy, nutritious snack. Low in calories, high in protein.",
+    "price": "170",
+    "nutrition": {
+      "calories": "347 kcal",
+      "protein": "9.7g",
+      "carbohydrates": "76.9g",
+      "fiber": "14.5g",
+      "fat": "0.1g"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+.first-child-div-A {
+  animation: sliding 42s 1s infinite ease-in-out;
+}
+
+@keyframes sliding {
+  0% {
+    transform: translateX(0%);
+  }
+  14.28% {
+    transform: translateX(0%);
+  }
+  28.56% {
+    transform: translateX(-100%);
+  }
+  42.84% {
+    transform: translateX(-200%);
+  }
+  57.12% {
+    transform: translateX(-300%);
+  }
+  71.40% {
+    transform: translateX(-400%);
+  }
+  85.68% {
+    transform: translateX(-500%);
+  }
+  99.96% {
+    transform: translateX(-600%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}

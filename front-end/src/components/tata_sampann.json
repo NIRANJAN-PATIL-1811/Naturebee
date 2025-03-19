@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/tata_sampann/garam_masala.jpg",
+    "desc": "Tata Sampann Garam Masala is made from whole spices that retain their natural oils, ensuring a rich and aromatic blend for Indian curries and dals.",
+    "price": "130",
+    "nutrition": {
+      "calories": "370 kcal",
+      "protein": "12g",
+      "carbohydrates": "58g",
+      "fiber": "32g",
+      "fat": "14g"
+    }
+  },
+  {
+    "img": "/tata_sampann/turmeric_powder.jpg",
+    "desc": "Tata Sampann Turmeric Powder is sourced from high-curcumin turmeric, enhancing the flavor and health benefits of your daily cooking.",
+    "price": "80",
+    "nutrition": {
+      "calories": "312 kcal",
+      "protein": "9g",
+      "carbohydrates": "58g",
+      "fiber": "21g",
+      "fat": "6g"
+    }
+  },
+  {
+    "img": "/tata_sampann/red_chilli_powder.jpg",
+    "desc": "Tata Sampann Red Chilli Powder is made from the finest chillies, ensuring vibrant color and balanced heat for your spicy dishes.",
+    "price": "95",
+    "nutrition": {
+      "calories": "400 kcal",
+      "protein": "11g",
+      "carbohydrates": "60g",
+      "fiber": "30g",
+      "fat": "15g"
+    }
+  },
+  {
+    "img": "/tata_sampann/kitchen_king.jpg",
+    "desc": "Tata Sampann Kitchen King Masala is a perfect blend of spices, ideal for enhancing the flavor of a variety of Indian dishes.",
+    "price": "120",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "10g",
+      "carbohydrates": "55g",
+      "fiber": "28g",
+      "fat": "13g"
+    }
+  },
+  {
+    "img": "/tata_sampann/coriander_powder.jpg",
+    "desc": "Tata Sampann Coriander Powder is ground from whole coriander seeds, delivering a fresh and earthy flavor to curries and gravies.",
+    "price": "85",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "11g",
+      "carbohydrates": "58g",
+      "fiber": "32g",
+      "fat": "14g"
+    }
+  },
+  {
+    "img": "/tata_sampann/chana_masala.jpg",
+    "desc": "Tata Sampann Chana Masala is a special blend of premium spices, perfect for making authentic and flavorful chickpea curry.",
+    "price": "105",
+    "nutrition": {
+      "calories": "375 kcal",
+      "protein": "10g",
+      "carbohydrates": "56g",
+      "fiber": "30g",
+      "fat": "14g"
+    }
+  },
+  {
+    "img": "/tata_sampann/pav_bhaji_masala.jpg",
+    "desc": "Tata Sampann Pav Bhaji Masala is a balanced mix of spices, ensuring an authentic street-style taste for homemade pav bhaji.",
+    "price": "115",
+    "nutrition": {
+      "calories": "355 kcal",
+      "protein": "9g",
+      "carbohydrates": "53g",
+      "fiber": "26g",
+      "fat": "11g"
+    }
+  },
+  {
+    "img": "/tata_sampann/meat_masala.jpg",
+    "desc": "Tata Sampann Meat Masala is a flavorful and aromatic spice mix that enhances the taste of meat-based dishes with its rich blend of whole spices.",
+    "price": "140",
+    "nutrition": {
+      "calories": "390 kcal",
+      "protein": "12g",
+      "carbohydrates": "58g",
+      "fiber": "35g",
+      "fat": "16g"
+    }
+  },
+  {
+    "img": "/tata_sampann/shahi_paneer_masala.jpg",
+    "desc": "Tata Sampann Shahi Paneer Masala is a rich blend of spices that adds a royal and creamy taste to paneer dishes.",
+    "price": "130",
+    "nutrition": {
+      "calories": "360 kcal",
+      "protein": "10g",
+      "carbohydrates": "52g",
+      "fiber": "27g",
+      "fat": "12g"
+    }
+  },
+  {
+    "img": "/tata_sampann/sambhar_masala.jpg",
+    "desc": "Tata Sampann Sambhar Masala is a perfect blend of South Indian spices, giving your sambhar a rich, tangy, and authentic taste.",
+    "price": "110",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "10g",
+      "carbohydrates": "55g",
+      "fiber": "28g",
+      "fat": "13g"
+    }
+  },
+  {
+    "img": "/tata_sampann/hing.jpg",
+    "desc": "Tata Sampann Hing is a premium-quality, aromatic spice known for its strong flavor and digestive benefits. Perfect for enhancing the taste of dal, curries, and Indian snacks.",
+    "price": "65",
+    "nutrition": {
+      "calories": "297 kcal",
+      "protein": "4g",
+      "carbohydrates": "49g",
+      "fiber": "3g",
+      "fat": "10g"
+    }
+  }
+]

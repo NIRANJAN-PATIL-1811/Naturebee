@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/movie_nights/popcorn.jpg",
+    "desc": "Premium quality popcorn kernels to prepare fresh, crispy, and buttery popcorn at home for a perfect movie night.",
+    "price": "80",
+    "nutrition": {
+      "calories": "375 kcal",
+      "protein": "10g",
+      "carbohydrates": "74g",
+      "fiber": "13g",
+      "fat": "4.3g"
+    }
+  },
+  {
+    "img": "/movie_nights/nacho_chips.jpg",
+    "desc": "Crunchy nacho chips, perfect for dipping into cheese or salsa while enjoying a movie.",
+    "price": "150",
+    "nutrition": {
+      "calories": "480 kcal",
+      "protein": "6g",
+      "carbohydrates": "65g",
+      "fiber": "5g",
+      "fat": "22g"
+    }
+  },
+  {
+    "img": "/movie_nights/pizza_base.jpg",
+    "desc": "Soft and ready-to-use pizza base, just add toppings and bake for a delicious homemade movie-night treat.",
+    "price": "100",
+    "nutrition": {
+      "calories": "260 kcal",
+      "protein": "8g",
+      "carbohydrates": "50g",
+      "fiber": "2.5g",
+      "fat": "4g"
+    }
+  },
+  {
+    "img": "/movie_nights/frozen_fries.jpg",
+    "desc": "French fries that are golden and crispy, perfect for a quick snack during a movie.",
+    "price": "120",
+    "nutrition": {
+      "calories": "312 kcal",
+      "protein": "3g",
+      "carbohydrates": "41g",
+      "fiber": "3g",
+      "fat": "15g"
+    }
+  },
+  {
+    "img": "/movie_nights/potato_chips.jpg",
+    "desc": "Classic salted potato chips, a crunchy and addictive snack for any movie night.",
+    "price": "90",
+    "nutrition": {
+      "calories": "540 kcal",
+      "protein": "6g",
+      "carbohydrates": "53g",
+      "fiber": "5g",
+      "fat": "34g"
+    }
+  },
+  {
+    "img": "/movie_nights/hotdog_buns.jpg",
+    "desc": "Soft and fresh hotdog buns, ready to pair with sausages for a classic movie-time meal.",
+    "price": "60",
+    "nutrition": {
+      "calories": "260 kcal",
+      "protein": "9g",
+      "carbohydrates": "48g",
+      "fiber": "2g",
+      "fat": "4g"
+    }
+  },
+  {
+    "img": "/movie_nights/burger_buns.jpg",
+    "desc": "Fluffy burger buns, perfect for assembling a homemade burger before watching your favorite movie.",
+    "price": "70",
+    "nutrition": {
+      "calories": "280 kcal",
+      "protein": "8g",
+      "carbohydrates": "50g",
+      "fiber": "3g",
+      "fat": "5g"
+    }
+  },
+  {
+    "img": "/movie_nights/soda_cans.jpg",
+    "desc": "Refreshing soda cans in different flavors, the perfect fizzy drink for a long movie session.",
+    "price": "50",
+    "nutrition": {
+      "calories": "140 kcal",
+      "protein": "0g",
+      "carbohydrates": "39g",
+      "fiber": "0g",
+      "fat": "0g"
+    }
+  },
+  {
+    "img": "/movie_nights/chocolate_bars.jpg",
+    "desc": "Smooth and rich chocolate bars, an indulgent sweet treat to enjoy during a cozy movie night.",
+    "price": "120",
+    "nutrition": {
+      "calories": "550 kcal",
+      "protein": "7g",
+      "carbohydrates": "60g",
+      "fiber": "6g",
+      "fat": "32g"
+    }
+  },
+  {
+    "img": "/movie_nights/ice_cream_tub.jpg",
+    "desc": "Creamy and delicious ice cream tubs, available in various flavors for the ultimate movie-night dessert.",
+    "price": "200",
+    "nutrition": {
+      "calories": "207 kcal",
+      "protein": "4g",
+      "carbohydrates": "26g",
+      "fiber": "1g",
+      "fat": "10g"
+    }
+  },
+  {
+    "img": "/movie_nights/mint_mojito_mix.jpg",
+    "desc": "Instant mojito mix with fresh mint flavor, perfect for making a chilled and refreshing drink.",
+    "price": "390",
+    "nutrition": {
+      "calories": "80 kcal",
+      "protein": "0.5g",
+      "carbohydrates": "22g",
+      "fiber": "0.5g",
+      "fat": "0g"
+    }
+  }
+]

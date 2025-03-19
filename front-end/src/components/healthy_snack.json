@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/healthy_snack/almonds.jpg",
+    "desc": "Crunchy and nutrient-rich almonds, perfect for a healthy movie-time snack.",
+    "price": "250",
+    "nutrition": {
+      "calories": "579 kcal",
+      "protein": "21g",
+      "carbohydrates": "22g",
+      "fiber": "12g",
+      "fat": "50g"
+    }
+  },
+  {
+    "img": "/healthy_snack/walnuts.jpg",
+    "desc": "Walnuts packed with omega-3 fatty acids, offering a rich and earthy flavor for a smart snack choice.",
+    "price": "300",
+    "nutrition": {
+      "calories": "654 kcal",
+      "protein": "15g",
+      "carbohydrates": "14g",
+      "fiber": "7g",
+      "fat": "65g"
+    }
+  },
+  {
+    "img": "/healthy_snack/cashews.jpg",
+    "desc": "Mildly sweet and buttery cashews, an energy-boosting snack for a movie marathon.",
+    "price": "270",
+    "nutrition": {
+      "calories": "553 kcal",
+      "protein": "18g",
+      "carbohydrates": "30g",
+      "fiber": "3g",
+      "fat": "44g"
+    }
+  },
+  {
+    "img": "/healthy_snack/raisins.jpg",
+    "desc": "Naturally sweet and chewy raisins, a great alternative to candies during a movie night.",
+    "price": "180",
+    "nutrition": {
+      "calories": "299 kcal",
+      "protein": "3g",
+      "carbohydrates": "79g",
+      "fiber": "3.7g",
+      "fat": "0.5g"
+    }
+  },
+  {
+    "img": "/healthy_snack/pistachios.jpg",
+    "desc": "Pistachios with a crunchy texture and rich taste, a satisfying and protein-packed snack.",
+    "price": "320",
+    "nutrition": {
+      "calories": "560 kcal",
+      "protein": "20g",
+      "carbohydrates": "28g",
+      "fiber": "10g",
+      "fat": "45g"
+    }
+  },
+  {
+    "img": "/healthy_snack/dried_figs.jpg",
+    "desc": "Dried figs with a naturally sweet and chewy texture, packed with fiber and essential minerals.",
+    "price": "350",
+    "nutrition": {
+      "calories": "249 kcal",
+      "protein": "3g",
+      "carbohydrates": "64g",
+      "fiber": "9.8g",
+      "fat": "0.9g"
+    }
+  },
+  {
+    "img": "/healthy_snack/dates.jpg",
+    "desc": "Sweet and chewy dates, a great natural energy booster for a long movie session.",
+    "price": "200",
+    "nutrition": {
+      "calories": "282 kcal",
+      "protein": "2.5g",
+      "carbohydrates": "75g",
+      "fiber": "8g",
+      "fat": "0.4g"
+    }
+  },
+  {
+    "img": "/healthy_snack/dried_apricots.jpg",
+    "desc": "Soft and tangy dried apricots, a great source of fiber and antioxidants.",
+    "price": "280",
+    "nutrition": {
+      "calories": "241 kcal",
+      "protein": "3.4g",
+      "carbohydrates": "63g",
+      "fiber": "7.3g",
+      "fat": "0.5g"
+    }
+  },
+  {
+    "img": "/healthy_snack/hazelnuts.jpg",
+    "desc": "Crunchy and delicious hazelnuts, rich in healthy fats and fiber for a filling snack.",
+    "price": "310",
+    "nutrition": {
+      "calories": "628 kcal",
+      "protein": "15g",
+      "carbohydrates": "17g",
+      "fiber": "10g",
+      "fat": "61g"
+    }
+  },
+  {
+    "img": "/healthy_snack/mixed_nuts.jpg",
+    "desc": "A nutritious mix of almonds, walnuts, cashews, and pistachios for the ultimate healthy movie-night snack.",
+    "price": "350",
+    "nutrition": {
+      "calories": "600 kcal",
+      "protein": "20g",
+      "carbohydrates": "25g",
+      "fiber": "8g",
+      "fat": "55g"
+    }
+  },
+  {
+    "img": "/healthy_snack/dried_blueberries.jpg",
+    "desc": "Sweet and tangy dried blueberries, full of antioxidants and natural goodness.",
+    "price": "400",
+    "nutrition": {
+      "calories": "317 kcal",
+      "protein": "2.5g",
+      "carbohydrates": "82g",
+      "fiber": "6.7g",
+      "fat": "0.8g"
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "img": "/patanjali/ghee.jpg",
+    "desc": "Pure and aromatic cow ghee, ideal for cooking and enhancing the flavor of traditional dishes.",
+    "price": "550",
+    "nutrition": {
+      "calories": "112 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "13g"
+    }
+  },
+  {
+    "img": "/patanjali/mustard_oil.jpg",
+    "desc": "Cold-pressed mustard oil, rich in omega-3 and ideal for healthy cooking.",
+    "price": "220",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/patanjali/aata.jpg",
+    "desc": "Whole wheat flour, rich in fiber and essential nutrients for making soft rotis and chapatis.",
+    "price": "160",
+    "nutrition": {
+      "calories": "364 kcal",
+      "protein": "12g",
+      "carbohydrates": "76g",
+      "fiber": "11g",
+      "fat": "1.5g"
+    }
+  },
+  {
+    "img": "/patanjali/besan.jpg",
+    "desc": "Pure gram flour, perfect for making pakoras, chillas, and other traditional Indian dishes.",
+    "price": "140",
+    "nutrition": {
+      "calories": "387 kcal",
+      "protein": "22g",
+      "carbohydrates": "58g",
+      "fiber": "10g",
+      "fat": "6g"
+    }
+  },
+  {
+    "img": "/patanjali/rice.jpg",
+    "desc": "High-quality basmati rice, naturally aged for great taste and aroma.",
+    "price": "200",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "7g",
+      "carbohydrates": "80g",
+      "fiber": "2g",
+      "fat": "0.5g"
+    }
+  },
+  {
+    "img": "/patanjali/dal.jpg",
+    "desc": "Nutrient-rich dal (pulses), an essential source of plant-based protein.",
+    "price": "180",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "24g",
+      "carbohydrates": "60g",
+      "fiber": "10g",
+      "fat": "1g"
+    }
+  },
+  {
+    "img": "/patanjali/honey.jpg",
+    "desc": "Pure and natural honey, a great immunity booster and natural sweetener.",
+    "price": "250",
+    "nutrition": {
+      "calories": "304 kcal",
+      "protein": "0.3g",
+      "carbohydrates": "82g",
+      "fiber": "0.2g",
+      "fat": "0g"
+    }
+  },
+  {
+    "img": "/patanjali/milk_powder.jpg",
+    "desc": "Premium quality milk powder, ideal for tea, coffee, and other dairy-based preparations.",
+    "price": "420",
+    "nutrition": {
+      "calories": "500 kcal",
+      "protein": "26g",
+      "carbohydrates": "38g",
+      "fiber": "0g",
+      "fat": "27g"
+    }
+  },
+  {
+    "img": "/patanjali/spices.jpg",
+    "desc": "Aromatic and pure Indian spices, including turmeric, cumin, and coriander, for flavorful cooking.",
+    "price": "90",
+    "nutrition": {
+      "calories": "320 kcal",
+      "protein": "12g",
+      "carbohydrates": "58g",
+      "fiber": "30g",
+      "fat": "10g"
+    }
+  },
+  {
+    "img": "/patanjali/amla_chatpata_candy.jpg",
+    "desc": "Patanjali Amla Chatpata Candy is a delicious and tangy treat made from pure amla (Indian gooseberry). It is rich in Vitamin C, supports digestion, and boosts immunity.",
+    "price": "150",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "1g",
+      "carbohydrates": "85g",
+      "fiber": "3g",
+      "fat": "0g"
+    }
+  },
+  {
+    "img": "/patanjali/dant_kanti.jpg",
+    "desc": "Patanjali Dant Kanti is an ayurvedic toothpaste enriched with natural herbs that help strengthen teeth, fight germs, and maintain fresh breath. It is free from harmful chemicals and provides complete oral care.",
+    "price": "90",
+    "nutrition": {
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fiber": "N/A",
+      "fat": "N/A"
+    }
+  }
+  
+]

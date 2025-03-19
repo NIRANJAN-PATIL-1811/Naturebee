@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/oil/olive_oil.jpg",
+    "desc": "Extra virgin olive oil, rich in healthy fats and antioxidants, perfect for cooking and salad dressing.",
+    "price": "500",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/sunflower_oil.jpg",
+    "desc": "Light and high-heat stable sunflower oil, ideal for deep frying and everyday cooking.",
+    "price": "300",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/mustard_oil.jpg",
+    "desc": "Pure mustard oil with a strong aroma, a staple for Indian cooking and pickling.",
+    "price": "250",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/coconut_oil.jpg",
+    "desc": "Cold-pressed coconut oil, great for cooking, baking, and even skincare.",
+    "price": "350",
+    "nutrition": {
+      "calories": "862 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/ghee.jpg",
+    "desc": "Pure and aromatic desi ghee, rich in vitamins and great for Indian cooking.",
+    "price": "600",
+    "nutrition": {
+      "calories": "900 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/butter.jpg",
+    "desc": "Creamy and rich unsalted butter, ideal for baking, spreading, and cooking.",
+    "price": "250",
+    "nutrition": {
+      "calories": "717 kcal",
+      "protein": "0.9g",
+      "carbohydrates": "0.1g",
+      "fiber": "0g",
+      "fat": "81g"
+    }
+  },
+  {
+    "img": "/oil/vegetable_oil.jpg",
+    "desc": "Versatile vegetable oil, suitable for all types of cooking and frying needs.",
+    "price": "280",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/peanut_oil.jpg",
+    "desc": "Pure peanut oil with a mild nutty flavor, excellent for deep frying and stir-frying.",
+    "price": "320",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/flaxseed_oil.jpg",
+    "desc": "Cold-pressed flaxseed oil, high in omega-3, best for drizzling over salads or smoothies.",
+    "price": "450",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/canola_oil.jpg",
+    "desc": "Heart-healthy canola oil with a neutral taste, perfect for daily cooking and baking.",
+    "price": "270",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  },
+  {
+    "img": "/oil/sesame_oil.jpg",
+    "desc": "Aromatic sesame oil, great for stir-fries, marinades, and Asian cuisine.",
+    "price": "400",
+    "nutrition": {
+      "calories": "884 kcal",
+      "protein": "0g",
+      "carbohydrates": "0g",
+      "fiber": "0g",
+      "fat": "100g"
+    }
+  }
+]

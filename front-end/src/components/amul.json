@@ -1,0 +1,145 @@
+[
+  {
+    "img": "/amul/amul_toned_milk.jpg",
+    "desc": "Amul Toned Milk, rich in essential nutrients, perfect for daily consumption.",
+    "price": "70",
+    "quantity": "1L",
+    "nutrition": {
+      "calories": "150 kcal",
+      "protein": "8g",
+      "carbohydrates": "12g",
+      "fiber": "0g",
+      "fat": "6g"
+    }
+  },
+  {
+    "img": "/amul/amul_full_cream_milk.jpg",
+    "desc": "Amul Full Cream Milk, ideal for tea, coffee, and desserts, packed with rich creaminess.",
+    "price": "80",
+    "quantity": "1L",
+    "nutrition": {
+      "calories": "210 kcal",
+      "protein": "9g",
+      "carbohydrates": "12g",
+      "fiber": "0g",
+      "fat": "12g"
+    }
+  },
+  {
+    "img": "/amul/amul_skimmed_milk.jpg",
+    "desc": "Amul Skimmed Milk, fat-free and protein-rich, perfect for fitness-conscious individuals.",
+    "price": "60",
+    "quantity": "1L",
+    "nutrition": {
+      "calories": "90 kcal",
+      "protein": "9g",
+      "carbohydrates": "13g",
+      "fiber": "0g",
+      "fat": "0.5g"
+    }
+  },
+  {
+    "img": "/amul/amul_masti_buttermilk.jpg",
+    "desc": "Amul Masti Buttermilk, a refreshing and digestive drink for a hot summer day.",
+    "price": "25",
+    "quantity": "500ml",
+    "nutrition": {
+      "calories": "35 kcal",
+      "protein": "2g",
+      "carbohydrates": "4g",
+      "fiber": "0g",
+      "fat": "1g"
+    }
+  },
+  {
+    "img": "/amul/amul_lassi.jpg",
+    "desc": "Amul Lassi, a sweet and creamy traditional Indian yogurt drink for instant refreshment.",
+    "price": "30",
+    "quantity": "500ml",
+    "nutrition": {
+      "calories": "150 kcal",
+      "protein": "4g",
+      "carbohydrates": "26g",
+      "fiber": "0g",
+      "fat": "3g"
+    }
+  },
+  {
+    "img": "/amul/masti_dahi.jpg",
+    "desc": "Amul Masti Dahi is a thick and creamy curd made from pure milk, perfect for preparing raita, lassi, or enjoying as a healthy snack.",
+    "price": "60",
+    "quantity": "400g",
+    "nutrition": {
+      "calories": "62 kcal",
+      "protein": "3.1g",
+      "carbohydrates": "4.7g",
+      "fiber": "0g",
+      "fat": "3.3g"
+    }
+  },
+  {
+    "img": "/amul/amul_cheese_slices.jpg",
+    "desc": "Amul Cheese Slices, delicious and creamy, perfect for sandwiches and burgers.",
+    "price": "130",
+    "quantity": "200g",
+    "nutrition": {
+      "calories": "275 kcal",
+      "protein": "18g",
+      "carbohydrates": "2g",
+      "fiber": "0g",
+      "fat": "22g"
+    }
+  },
+  {
+    "img": "/amul/amul_butter.jpg",
+    "desc": "Amul Butter, a household favorite, rich and creamy for spreading, cooking, and baking.",
+    "price": "55",
+    "quantity": "100g",
+    "nutrition": {
+      "calories": "717 kcal",
+      "protein": "0.9g",
+      "carbohydrates": "0.1g",
+      "fiber": "0g",
+      "fat": "81g"
+    }
+  },
+  {
+    "img": "/amul/amul_shrikhand.jpg",
+    "desc": "Amul Shrikhand, a traditional Indian sweet yogurt with a rich and creamy texture.",
+    "price": "150",
+    "quantity": "500g",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "8g",
+      "carbohydrates": "55g",
+      "fiber": "0g",
+      "fat": "10g"
+    }
+  },
+  {
+    "img": "/amul/amul_milk_powder.jpg",
+    "desc": "Amul Milk Powder, ideal for making tea, coffee, and desserts with long shelf life.",
+    "price": "250",
+    "quantity": "1kg",
+    "nutrition": {
+      "calories": "500 kcal",
+      "protein": "26g",
+      "carbohydrates": "38g",
+      "fiber": "0g",
+      "fat": "27g"
+    }
+  },
+  {
+    "img": "/amul/chocolate.jpg",
+    "desc": "Amul Chocolate is a rich and creamy delight made with high-quality cocoa. Perfect for indulging in a sweet treat or sharing with loved ones.",
+    "price": "150",
+    "quantity": "150g",
+    "nutrition": {
+      "calories": "550 kcal",
+      "protein": "8g",
+      "carbohydrates": "60g",
+      "fiber": "5g",
+      "fat": "35g"
+    }
+  }
+]

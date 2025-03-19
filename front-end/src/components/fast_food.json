@@ -1,0 +1,134 @@
+[
+  {
+    "img": "/fast_food/instant_noodles.jpg",
+    "desc": "Delicious instant noodles with a savory seasoning mix, perfect for a quick and satisfying meal.",
+    "price": "50",
+    "nutrition": {
+      "calories": "380 kcal",
+      "protein": "8g",
+      "carbohydrates": "52g",
+      "fiber": "2g",
+      "fat": "16g"
+    }
+  },
+  {
+    "img": "/fast_food/hakka_noodles.jpg",
+    "desc": "Authentic Hakka noodles, perfect for stir-frying with vegetables and sauces for a restaurant-style dish.",
+    "price": "120",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "10g",
+      "carbohydrates": "72g",
+      "fiber": "3g",
+      "fat": "2g"
+    }
+  },
+  {
+    "img": "/fast_food/whole_wheat_pasta.jpg",
+    "desc": "Healthy whole wheat pasta, a great source of fiber and nutrients for a wholesome meal.",
+    "price": "140",
+    "nutrition": {
+      "calories": "360 kcal",
+      "protein": "13g",
+      "carbohydrates": "74g",
+      "fiber": "7g",
+      "fat": "2g"
+    }
+  },
+  {
+    "img": "/fast_food/penne_pasta.jpg",
+    "desc": "Classic penne pasta, ideal for creamy or tomato-based sauces to make an Italian-inspired dish.",
+    "price": "160",
+    "nutrition": {
+      "calories": "370 kcal",
+      "protein": "12g",
+      "carbohydrates": "74g",
+      "fiber": "3g",
+      "fat": "1.5g"
+    }
+  },
+  {
+    "img": "/fast_food/spaghetti.jpg",
+    "desc": "Traditional spaghetti, perfect for making a delicious bowl of pasta with your favorite sauce.",
+    "price": "180",
+    "nutrition": {
+      "calories": "371 kcal",
+      "protein": "12.5g",
+      "carbohydrates": "75g",
+      "fiber": "3.2g",
+      "fat": "1.5g"
+    }
+  },
+  {
+    "img": "/fast_food/macaroni.jpg",
+    "desc": "Small elbow macaroni, perfect for baked pasta dishes, macaroni and cheese, or salads.",
+    "price": "150",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "13g",
+      "carbohydrates": "73g",
+      "fiber": "3g",
+      "fat": "2g"
+    }
+  },
+  {
+    "img": "/fast_food/rice_noodles.jpg",
+    "desc": "Light and gluten-free rice noodles, great for Asian-style soups and stir-fried dishes.",
+    "price": "200",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "6g",
+      "carbohydrates": "80g",
+      "fiber": "1g",
+      "fat": "0.5g"
+    }
+  },
+  {
+    "img": "/fast_food/soba_noodles.jpg",
+    "desc": "Buckwheat soba noodles, a nutritious and flavorful option for hot or cold dishes.",
+    "price": "250",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "15g",
+      "carbohydrates": "66g",
+      "fiber": "3g",
+      "fat": "2g"
+    }
+  },
+  {
+    "img": "/fast_food/lasagna_sheets.jpg",
+    "desc": "Classic lasagna sheets, perfect for layering with sauce and cheese to create a delicious Italian meal.",
+    "price": "280",
+    "nutrition": {
+      "calories": "365 kcal",
+      "protein": "12g",
+      "carbohydrates": "72g",
+      "fiber": "3g",
+      "fat": "2g"
+    }
+  },
+  {
+    "img": "/fast_food/pasta_sauce.jpg",
+    "desc": "Rich and flavorful pasta sauce, made from ripe tomatoes and herbs for a perfect Italian dish.",
+    "price": "300",
+    "nutrition": {
+      "calories": "80 kcal",
+      "protein": "2g",
+      "carbohydrates": "10g",
+      "fiber": "2g",
+      "fat": "3g"
+    }
+  },
+  {
+    "img": "/fast_food/cheese_powder.jpg",
+    "desc": "Savory cheese powder, ideal for sprinkling over pasta, noodles, and snacks for extra flavor.",
+    "price": "350",
+    "nutrition": {
+      "calories": "420 kcal",
+      "protein": "24g",
+      "carbohydrates": "30g",
+      "fiber": "2g",
+      "fat": "30g"
+    }
+  }
+]
